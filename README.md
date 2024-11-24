@@ -2,8 +2,9 @@
 
 ## A. Importing and Cleaning Data and Perform basic data exploration (mean, median, mode)
 
-### 1. Tools: Python (Pandas), Excel
-### 2. Do Load datasets (CSV, Excel) and Handle missing values
+## Tools: 
+- Python (Pandas), Excel
+- Do Load datasets (CSV, Excel) and Handle missing values
 
 ## Program
 
