@@ -80,13 +80,14 @@ print(f"Mode of Name: {mode_name}")
 
 ### Basic Data Exploration Results
 
-- **Mean Age**: 28.0  
-- **Median Salary**: 54000.0  
-- **Mode of Name**: Alice 
+- Mean Age: 28.0  
+- Median Salary: 54000.0  
+- Mode of Name: Alice 
 
 ## B. Visualization Basics to Create Charts (Bar, Pie, Line) and Interpret Visual Patterns
 
-### Tools: Tableau/Matplotlib/Seaborn
+## Tools: 
+Tableau/Matplotlib/Seaborn
 
 ### Step 1: Import Libraries and Prepare Data
 
