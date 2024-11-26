@@ -148,7 +148,7 @@ plt.show()
 
  
 ### Step 4: Line Chart
-Line charts are used to show trends over time.
+Line charts are used to show trends over time..
 ```python
 #Line Chart
 plt.figure(figsize=(8, 5))
